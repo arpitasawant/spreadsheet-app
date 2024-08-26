@@ -15,12 +15,13 @@ Next.js: A React framework for server-side rendering and static site generation.
 Tailwind CSS: A utility-first CSS framework for styling.
 Zustand: A small, fast state-management library for React.
 
-Installation
-Clone the Repository
+## Installation
 
+Clone the Repository
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
-Install Dependencies
+
+## Install Dependencies
 
 npm install
 Run the Development Server
